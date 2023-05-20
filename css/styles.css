@@ -21,7 +21,7 @@ body {
   color: whitesmoke;
 }
 .navbar-toggler {
-  background-color: yellow;
+  background-color: white;
 }
 
 .carousel-item img {
@@ -56,9 +56,9 @@ footer {
   /*anidacion*/
 }
 footer .container-redes a {
-  color: yellow;
+  color: white;
   text-decoration: none;
-  font-size: 40px;
+  font-size: 80px;
 }
 
 .contenedor-banner {
